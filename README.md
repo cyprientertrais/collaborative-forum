@@ -1,6 +1,6 @@
 # Notre forum
 
-Ce forum pour commencer va se baser sur un ensemble de PR faites par plusieurs devs.
+Ce forum pour commencer va se baser sur un ensemble de PR faites par plusieurs devs
 
 ## Available Scripts
 
